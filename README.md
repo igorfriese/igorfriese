@@ -25,7 +25,7 @@
   <img alt="Csharp" height="35" width="45"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img alt=".NET" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img alt="JavaScript" height="35" width="45"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img alt="HTML5" height="35" width="45"
@@ -45,4 +45,4 @@
   <a href="https://www.linkedin.com/in/igorfriese" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</div>         
